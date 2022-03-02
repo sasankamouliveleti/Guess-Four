@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project4_Sasanka</string>
+    <string name="player1_ground">Player1 Ground</string>
+    <string name="player1_secret_sequence">Player1 Secret Sequence:</string>
+    <string name="guess_and_responses">Guess and Responses</string>
+    <string name="player2_ground">Player2 Ground</string>
+    <string name="player2_secret_sequence">Player2 Secret Sequence:</string>
+    <string name="start_game">Start Game</string>
+    <string name="wating_for_game_start">Wating for Game Start</string>
+    <string name="guess_four">Guess Four</string>
+</resources>
